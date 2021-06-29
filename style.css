@@ -1,0 +1,92 @@
+* {
+  margin: 0;
+}
+p {
+  text-align: justify;
+}
+header {
+  background-color: rgb(15, 86, 153);
+}
+h1 {
+  color: aliceblue;
+  text-align: center;
+  padding: 30px;
+}
+#main img {
+  width: 100%;
+  height: 400px;
+}
+#main h2 {
+  text-align: center;
+  padding: 30px 0;
+  color: brown;
+}
+nav {
+  background-color: rgb(24, 6, 31);
+  padding: 10px;
+  text-align: center;
+}
+.home {
+  padding-left: 0;
+}
+nav a {
+  text-decoration: none;
+  color: rgb(180, 238, 238);
+  padding-left: 90px;
+  font-size: 20px;
+}
+
+#Services h2 {
+  text-align: center;
+  padding: 25px 0;
+}
+#Services div {
+  outline: 2px solid greenyellow;
+  float: left;
+  height: 250px;
+}
+.wdt img {
+  width: 250px;
+}
+
+.one {
+  padding-left: 50px;
+  width: 1048px;
+}
+.two {
+  width: 1048px;
+  padding-right: 50px;
+}
+
+#Demo h2 {
+  text-align: center;
+  padding: 1300px 0 25px 0;
+}
+
+iframe {
+  width: 30%;
+  height: 400px;
+}
+#demo div {
+  float: left;
+}
+
+#Contacts h2 {
+  padding: 30px 0;
+  text-align: center;
+}
+#Contacts li,
+a {
+  list-style: none;
+  text-decoration: none;
+  padding-left: 100px;
+  color: rgb(251, 16, 16);
+}
+
+#Contacts li {
+  float: left;
+}
+
+#Contacts {
+  padding: 50px 0;
+}
